@@ -1,9 +1,9 @@
 ---
 title: Выбор ноутбука для приватности
-version: 1.0.0
-author: Nistar Course
+version: 1.0.1
+author: Or Tam
 date: 2026-04-30
-status: черновик
+status: активен
 chapter: 3
 path: 02_hardware_os/01_laptop_choice.md
 ---
