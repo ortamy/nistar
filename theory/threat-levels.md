@@ -1,7 +1,7 @@
 ---
 title: Три уровня тени
 version: 1.0.0
-author: Nistar Course
+author: Or Tam
 date: 2026-04-30
 status: черновик
 chapter: 1
