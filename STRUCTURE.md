@@ -1,5 +1,6 @@
 # 📁 Структура репозитория Nistar
 
+```markdown
 nistar-system
 	README.md
 	LICENSE
@@ -108,3 +109,4 @@ nistar-system
 		usb-imager.md
 		hash-verifier.sh
 		hardware-recs.md
+```
