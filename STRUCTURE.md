@@ -7,6 +7,10 @@ nistar-system
 	ARCHITECTURE.md
 	THREAT_MODEL.md
 	DEPLOYMENT.md
+	nistar-theory
+		README.md
+		threat-levels.md
+		data-collection.md
 	nistar-os
 		README.md
 		build
@@ -23,6 +27,10 @@ nistar-system
 		docs
 			BOOT_INTEGRITY.md
 			USB_CREATION.md
+			laptop-choice.md
+			smartphone.md
+			nistar-os.md
+			destruction.md
 	nistar-net
 		README.md
 		whonix
@@ -47,7 +55,10 @@ nistar-system
 			killswitch.sh
 			dpi-bypass.py
 		docs
+			vpn.md
+			tor.md
 			DPI_BYPASS.md
+			dpi-bypass.md
 			OWN_VPN.md
 	nistar-comms
 		README.md
@@ -95,6 +106,9 @@ nistar-system
 		docs
 			COMPARTMENTATION.md
 			BURNED.md
+	nistar-autonomy
+		README.md
+		01_full_stack_setup.md
 	scenarios
 		scenario-zero.md
 		scenario-device-seized.md
@@ -109,4 +123,3 @@ nistar-system
 		usb-imager.md
 		hash-verifier.sh
 		hardware-recs.md
-```
